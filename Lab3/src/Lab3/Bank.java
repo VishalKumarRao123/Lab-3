@@ -133,9 +133,10 @@ public class Bank {
 	 case 5 : Account.printallAc(obj,i);
 	          break;
 	 case 6 : 
-		      System.out.println("Thank You !");
+		      System.out.println("Thank You so much!");
 		      b=false;
 	           break;
+	           
 	 default : System.out.println("Invalid Choice");
 	 }}
 	}
